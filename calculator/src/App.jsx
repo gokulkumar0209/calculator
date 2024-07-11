@@ -7,7 +7,7 @@ function App() {
 	return (
 		<>
 			<div className="flex justify-center items-center h-screen">
-				<div className=" bg-gray-500 p-4">
+				<div className=" bg-gray-500 p-4 rounded-lg">
 					<Calculator />
 				</div>
 			</div>
